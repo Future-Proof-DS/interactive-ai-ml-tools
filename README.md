@@ -1,6 +1,6 @@
 <div align="center">
 
-# Interactive AI and ML Tools for Data Scientists
+<img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
 
 Free, interactive tools for learning MLOps, ML system design and agentic analytics.<br>
 Open one in your browser and start clicking.
