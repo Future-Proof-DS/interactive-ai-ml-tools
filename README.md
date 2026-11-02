@@ -8,11 +8,11 @@ Open one in your browser and start clicking.
 ![Tools](https://img.shields.io/badge/tools-5-2f81f7)
 ![Runs in](https://img.shields.io/badge/runs_in-the_browser-8250df)
 
-[ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
-
 <br>
 
 <img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
+
+[ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
 
 </div>
 
