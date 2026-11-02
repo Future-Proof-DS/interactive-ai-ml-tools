@@ -24,7 +24,7 @@ Each section lists its tools in the order they build on each other.
 
 ## Start here
 
-| | Start here |
+| | Tool |
 | :-- | :-- |
 | [<img src="assets/choose-your-path.png" width="320" alt="Choose your path: ML in production or agentic analytics, the front door to the interactive tools">][start] | **[Choose your path][start]**<br>Pick ML in production or agentic analytics and open its tools in order. |
 
