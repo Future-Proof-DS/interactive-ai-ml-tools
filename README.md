@@ -12,6 +12,8 @@ Open one in your browser and start clicking.
 
 <img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
 
+### [Start here: choose your path &rarr;][start]
+
 [ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
 
 </div>
@@ -56,4 +58,5 @@ The tools live on [Future Proof Data Science][home].
 [ml-data-drift]: https://futureproofds.com/tools/ml-data-drift?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools
 [ai-system-map]: https://futureproofds.com/tools/agentic-analytics-system?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools
 [ai-evals]: https://futureproofds.com/tools/ai-evals?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools
+[start]: https://futureproofds.com/tools?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools
 [home]: https://futureproofds.com/?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools
