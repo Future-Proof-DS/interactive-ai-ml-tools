@@ -6,7 +6,6 @@ Free, hands-on explainers for production machine learning and agentic analytics.
 Open one in your browser and start clicking.
 
 ![Tools](https://img.shields.io/badge/tools-5-2f81f7)
-![Price](https://img.shields.io/badge/price-free-2ea043)
 ![Runs in](https://img.shields.io/badge/runs_in-the_browser-8250df)
 
 [ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
@@ -23,20 +22,20 @@ Each section lists its tools in the order they build on each other.
 
 Most data science work stops at the notebook. Production machine learning is everything after it: how the project is structured, how the model is trained, shipped and served, and how model monitoring catches data drift before predictions quietly go wrong. These three tools cover that ground for anyone learning MLOps and ML system design.
 
-| | Tool | Time |
-| :-- | :-- | :-: |
-| [<img src="assets/ml-system-map.png" width="320" alt="Anatomy of a Production ML System">][ml-system-map] | **[Anatomy of a Production ML System][ml-system-map]**<br>A production ML system's components, explained. | 20 min |
-| [<img src="assets/ml-project-structure.png" width="320" alt="ML Project Structure">][ml-project-structure] | **[ML Project Structure][ml-project-structure]**<br>Where a production ML project keeps each file, and why. | 15 min |
-| [<img src="assets/ml-data-drift.png" width="320" alt="Data Drift Simulator">][ml-data-drift] | **[Data Drift Simulator][ml-data-drift]**<br>How a model drifts in production, and how to catch it. | 15 min |
+| | Tool |
+| :-- | :-- |
+| [<img src="assets/ml-system-map.png" width="320" alt="Anatomy of a Production ML System">][ml-system-map] | **[Anatomy of a Production ML System][ml-system-map]**<br>A production ML system's components, explained.<br><sub>20 min</sub> |
+| [<img src="assets/ml-project-structure.png" width="320" alt="ML Project Structure">][ml-project-structure] | **[ML Project Structure][ml-project-structure]**<br>Where a production ML project keeps each file, and why.<br><sub>15 min</sub> |
+| [<img src="assets/ml-data-drift.png" width="320" alt="Data Drift Simulator">][ml-data-drift] | **[Data Drift Simulator][ml-data-drift]**<br>How a model drifts in production, and how to catch it.<br><sub>15 min</sub> |
 
 ## Agentic analytics
 
 Agentic analytics puts AI agents between people and their data: someone asks a question in Slack, and an agent writes the SQL and replies with an answer. The hard part is knowing whether that answer is right. These two tools show how such a system is built, and how LLM evals and AI evaluation tell a correct answer apart from a convincing one.
 
-| | Tool | Time |
-| :-- | :-- | :-: |
-| [<img src="assets/ai-system-map.png" width="320" alt="Agentic Analytics System Map">][ai-system-map] | **[Agentic Analytics System Map][ai-system-map]**<br>The components of an AI analytics agent, explained. | 20 min |
-| [<img src="assets/ai-evals.png" width="320" alt="Evals, Step by Step">][ai-evals] | **[Evals, Step by Step][ai-evals]**<br>How to test whether an AI agent's answers are correct. | 5 min |
+| | Tool |
+| :-- | :-- |
+| [<img src="assets/ai-system-map.png" width="320" alt="Agentic Analytics System Map">][ai-system-map] | **[Agentic Analytics System Map][ai-system-map]**<br>The components of an AI analytics agent, explained.<br><sub>20 min</sub> |
+| [<img src="assets/ai-evals.png" width="320" alt="Evals, Step by Step">][ai-evals] | **[Evals, Step by Step][ai-evals]**<br>How to test whether an AI agent's answers are correct.<br><sub>5 min</sub> |
 
 ---
 
