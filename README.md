@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
+# Interactive AI and ML Tools for Data Scientists
 
 Free, interactive tools for learning MLOps, ML system design and agentic analytics.<br>
 Open one in your browser and start clicking.
@@ -9,6 +9,10 @@ Open one in your browser and start clicking.
 ![Runs in](https://img.shields.io/badge/runs_in-the_browser-8250df)
 
 [ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
+
+<br>
+
+<img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
 
 </div>
 
