@@ -20,8 +20,6 @@ Reading about machine learning in production or AI agents only gets you so far. 
 
 To be clear, they are not a replacement for building. Learning by doing is still one of the most effective ways to learn. What these tools do is get the theory down and develop your intuition much faster than reading alone, so that when you do build, you already know what you are looking at.
 
-Each section lists its tools in the order they build on each other.
-
 ## Start here
 
 | | Tool |
