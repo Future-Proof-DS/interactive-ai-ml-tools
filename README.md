@@ -12,8 +12,6 @@ Open one in your browser and start clicking.
 
 <img src="assets/header.png" width="100%" alt="Interactive AI and ML tools for data scientists: Anatomy of a Production ML System, ML Project Structure, Data Drift Simulator, Agentic Analytics System Map, Evals Step by Step">
 
-### [Start here: choose your path &rarr;][start]
-
 [ML in production](#ml-in-production) &nbsp;·&nbsp; [Agentic analytics](#agentic-analytics)
 
 </div>
@@ -23,6 +21,12 @@ Reading about machine learning in production or AI agents only gets you so far. 
 To be clear, they are not a replacement for building. Learning by doing is still one of the most effective ways to learn. What these tools do is get the theory down and develop your intuition much faster than reading alone, so that when you do build, you already know what you are looking at.
 
 Each section lists its tools in the order they build on each other.
+
+## Start here
+
+| | Start here |
+| :-- | :-- |
+| [<img src="assets/choose-your-path.png" width="320" alt="Choose your path: ML in production or agentic analytics, the front door to the interactive tools">][start] | **[Choose your path][start]**<br>Pick ML in production or agentic analytics and open its tools in order. |
 
 ## ML in production
 
