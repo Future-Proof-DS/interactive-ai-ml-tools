@@ -46,7 +46,7 @@ Agentic analytics puts AI agents between people and their data: someone asks a q
 <div align="center">
 
 Created by [Andres Vourakis](https://www.linkedin.com/in/andresvourakis).<br>
-The tools live on [Future Proof Data Science][home]. More hands-on repos on [GitHub](https://github.com/Future-Proof-DS).
+The tools live on [Future Proof Data Science][home].
 
 </div>
 
