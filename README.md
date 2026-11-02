@@ -1,8 +1,8 @@
 <div align="center">
 
-# Interactive Tools for Data Scientists
+# Interactive AI and ML Tools for Data Scientists
 
-Free, hands-on explainers for production machine learning and agentic analytics.<br>
+Free, interactive tools for learning MLOps, ML system design and agentic analytics.<br>
 Open one in your browser and start clicking.
 
 ![Tools](https://img.shields.io/badge/tools-5-2f81f7)
@@ -12,37 +12,37 @@ Open one in your browser and start clicking.
 
 </div>
 
-Reading about a production ML system or an AI agent only gets you so far. These tools let you click through one instead: open each component, follow a scenario day by day, and see what breaks and what catches it. The goal is to help you learn much more effectively than reading or watching videos alone.
+Reading about machine learning in production or AI agents only gets you so far. These interactive tools let you click through a real system instead: open each component, follow a scenario day by day, and see what breaks and what catches it. The goal is to help you learn much more effectively than reading or watching videos alone.
 
-They are not a replacement for building. Learning by doing is still one of the most effective ways to learn. What these tools do is get the theory down and develop your intuition much faster than reading alone, so that when you do build, you already know what you are looking at.
+To be clear, they are not a replacement for building. Learning by doing is still one of the most effective ways to learn. What these tools do is get the theory down and develop your intuition much faster than reading alone, so that when you do build, you already know what you are looking at.
 
 Each section lists its tools in the order they build on each other.
 
 ## ML in production
 
-Most data science work stops at the notebook. Production machine learning is everything after it: how the project is structured, how the model is trained, shipped and served, and how model monitoring catches data drift before predictions quietly go wrong. These three tools cover that ground for anyone learning MLOps and ML system design.
+Most data science work stops at the notebook. Machine learning in production is everything after it: how the ML project is structured, how the model is trained, deployed and served, and how model monitoring catches data drift before predictions quietly go wrong. These three tools cover that ground for anyone learning MLOps and ML system design.
 
 | | Tool |
 | :-- | :-- |
-| [<img src="assets/ml-system-map.png" width="320" alt="Anatomy of a Production ML System">][ml-system-map] | **[Anatomy of a Production ML System][ml-system-map]**<br>A production ML system's components, explained.<br><sub>20 min</sub> |
-| [<img src="assets/ml-project-structure.png" width="320" alt="ML Project Structure">][ml-project-structure] | **[ML Project Structure][ml-project-structure]**<br>Where a production ML project keeps each file, and why.<br><sub>15 min</sub> |
-| [<img src="assets/ml-data-drift.png" width="320" alt="Data Drift Simulator">][ml-data-drift] | **[Data Drift Simulator][ml-data-drift]**<br>How a model drifts in production, and how to catch it.<br><sub>15 min</sub> |
+| [<img src="assets/ml-system-map.png" width="320" alt="Anatomy of a Production ML System: an interactive ML system design map covering training, experiment tracking, CI/CD, model serving and drift monitoring">][ml-system-map] | **[Anatomy of a Production ML System][ml-system-map]**<br>A production ML system's components, explained.<br><sub>20 min</sub> |
+| [<img src="assets/ml-project-structure.png" width="320" alt="ML Project Structure: the folder layout of a production ML project, explained file by file">][ml-project-structure] | **[ML Project Structure][ml-project-structure]**<br>Where a production ML project keeps each file, and why.<br><sub>15 min</sub> |
+| [<img src="assets/ml-data-drift.png" width="320" alt="Data Drift Simulator: six months of a deployed model's inputs and a drift check for model monitoring">][ml-data-drift] | **[Data Drift Simulator][ml-data-drift]**<br>How a model drifts in production, and how to catch it.<br><sub>15 min</sub> |
 
 ## Agentic analytics
 
-Agentic analytics puts AI agents between people and their data: someone asks a question in Slack, and an agent writes the SQL and replies with an answer. The hard part is knowing whether that answer is right. These two tools show how such a system is built, and how LLM evals and AI evaluation tell a correct answer apart from a convincing one.
+Agentic analytics puts AI agents between people and their data: someone asks a question in Slack, and a text-to-SQL agent writes the query and replies with an answer. The hard part is knowing whether that answer is right. These two tools show how such a system is built, and how AI evals tell a correct answer apart from a convincing one.
 
 | | Tool |
 | :-- | :-- |
-| [<img src="assets/ai-system-map.png" width="320" alt="Agentic Analytics System Map">][ai-system-map] | **[Agentic Analytics System Map][ai-system-map]**<br>The components of an AI analytics agent, explained.<br><sub>20 min</sub> |
-| [<img src="assets/ai-evals.png" width="320" alt="Evals, Step by Step">][ai-evals] | **[Evals, Step by Step][ai-evals]**<br>How to test whether an AI agent's answers are correct.<br><sub>5 min</sub> |
+| [<img src="assets/ai-system-map.png" width="320" alt="Agentic Analytics System Map: how a text-to-SQL AI agent answers a data question in Slack">][ai-system-map] | **[Agentic Analytics System Map][ai-system-map]**<br>The components of an AI analytics agent, explained.<br><sub>20 min</sub> |
+| [<img src="assets/ai-evals.png" width="320" alt="Evals, Step by Step: testing an AI analytics agent with a golden set, judges and repeated runs">][ai-evals] | **[Evals, Step by Step][ai-evals]**<br>How to test whether an AI agent's answers are correct.<br><sub>5 min</sub> |
 
 ---
 
 <div align="center">
 
 Created by [Andres Vourakis](https://www.linkedin.com/in/andresvourakis).<br>
-The tools live on [Future Proof Data Science][home].
+The tools live on [Future Proof Data Science][home]. More hands-on repos on [GitHub](https://github.com/Future-Proof-DS).
 
 </div>
 
